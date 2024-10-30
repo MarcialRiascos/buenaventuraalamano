@@ -1,0 +1,115 @@
+{
+  "results": [
+      {
+      "nombre": "ONLY MOVIL",
+      "zona": "",
+      "llamadas": "3158674000",
+      "whatsapp": "3158674000",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/onlymovil.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "ONLY MOVIL",
+      "zona": "",
+      "llamadas": "3116564426",
+      "whatsapp": "3158674000",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/onlymovil.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "RAPITAXI",
+      "zona": "",
+      "llamadas": "3217695157",
+      "whatsapp": "3217695157",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/rapitaxi.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "RAPITAXI",
+      "zona": "",
+      "llamadas": "3232482076",
+      "whatsapp": "3217695157",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/rapitaxi.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TAXI YA",
+      "zona": "",
+      "llamadas": "3146836334",
+      "whatsapp": "3146836334",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/taxiya.jpg"
+      },
+      "nat": "NO"
+    },
+    
+    {
+      "nombre": "TAXI'S EXPRESS",
+      "zona": "",
+      "llamadas": "3114082197",
+      "whatsapp": "3114082197",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/taxiexpress.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TAXI'S EXPRESS",
+      "zona": "",
+      "llamadas": "3114035446",
+      "whatsapp": "3114082197",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/taxiexpress.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TAXI'S EXPRESS",
+      "zona": "",
+      "llamadas": "3177613971",
+      "whatsapp": "3114082197",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/taxiexpress.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TAXI'S EXPRESS",
+      "zona": "",
+      "llamadas": "3136446210",
+      "whatsapp": "3114082197",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/taxiexpress.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "VIP PASAJERO",
+      "zona": "",
+      "llamadas": "3114074736",
+      "whatsapp": "3114074736",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/taxis/vip.jpg"
+      },
+      "nat": "NO"
+    }
+  ]
+}

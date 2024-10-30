@@ -1,0 +1,92 @@
+{
+    "results": [
+      {
+        "nombre": "ATENAS",
+        "zona": "MARIA EUGENIA",
+        "llamadas": "3053094813",
+        "whatsapp": "3053094813",
+        "web": "https://bit.ly/3frZr2n",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/atenas.jpg"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "JOGA BONITO",
+        "zona": "EL RETEN",
+        "llamadas": "3183260519",
+        "whatsapp": "3183260519",
+        "web": "https://bit.ly/3SGQNv9",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/jogabonito.jpg"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "LA BOMBONERA",
+        "zona": "LAS AMERICAS",
+        "llamadas": "3137373823",
+        "whatsapp": "3137373823",
+        "web": "https://bit.ly/3UHLnls",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/labombonera.jpg"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "LA INDEPENDENCIA",
+        "zona": "LA INDPENDENCIA",
+        "llamadas": "3216329137",
+        "whatsapp": "3216329137",
+        "web": "",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/independencia.jpg"
+        },
+        "nat": "NO"
+      }, 
+      {
+        "nombre": "LA SALCHIPAPA",
+        "zona": "BOMBA LA 14",
+        "llamadas": "3155753525",
+        "whatsapp": "3155753525",
+        "web": "https://bit.ly/3SkWZJA",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/lasalchipapa.jpg"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "MARACANÁ",
+        "zona": "EL TRIUNFO",
+        "llamadas": "3176523167",
+        "whatsapp": "3176523167",
+        "web": "https://bit.ly/3LQIMli",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/maracana.jpg"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "MONUMENTAL",
+        "zona": "EL 5",
+        "llamadas": "3172509720",
+        "whatsapp": "3172509720",
+        "web": "https://bit.ly/3BTKYUn",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/monumental.jpg"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "MORUMBI",
+        "zona": "EL CAMPIN",
+        "llamadas": "3166936468",
+        "whatsapp": "3166936468",
+        "web": "https://bit.ly/3FLOqTc",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/canchas/morumbi.jpg"
+        },
+        "nat": "NO"
+      }
+    ]
+  }

@@ -1,0 +1,301 @@
+{
+  "results": [
+    {
+      "nombre": "AZTECA'S FOOD",
+      "zona": "CENTRO DE B/TURA",
+      "llamadas": "3174214501",
+      "whatsapp": "3174214501",
+      "web": "https://bit.ly/3UCIZMJ",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/aztecas.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "CARNIVOROS",
+      "zona": "VIVA B/TURA",
+      "llamadas": "",
+      "whatsapp": "3163290575",
+      "web": "https://bit.ly/3C4TYrd",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/carnivoro.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "CHIMICHURRI",
+      "zona": "INDEPENDENCIA",
+      "llamadas": "3136200644",
+      "whatsapp": "3136200644",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/chimichurri.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "CHIMICHURY",
+      "zona": "VIVA B/TURA",
+      "llamadas": "3206524543",
+      "whatsapp": "3206524543",
+      "web": "https://bit.ly/3DOe76d",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/chimichurry.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "EL PALENUQE",
+      "zona": "",
+      "llamadas": "3104597968",
+      "whatsapp": "3104597968",
+      "web": "https://bit.ly/3RgCoVs",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/elpalenque.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "EL PUNTO SP",
+      "zona": "INDEPENDENCIA",
+      "llamadas": "3104422592",
+      "whatsapp": "3104422592",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/elpunto.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "EL TRAPICHE",
+      "zona": "EL TRAPICHE",
+      "llamadas": "3172464141",
+      "whatsapp": "3172464141",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/eltrapiche.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "KUBICHE",
+      "zona": "",
+      "llamadas": "3153846773",
+      "whatsapp": "3153846773",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/kubiche.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "LA COLITA TRUCK",
+      "zona": "CENTRO B/TURA",
+      "llamadas": "3175704856",
+      "whatsapp": "3175704856",
+      "web": "https://bit.ly/3dO7NAO",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/lacolita.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "LA CUARENTENA",
+      "zona": "INDEPENDENCIA",
+      "llamadas": "3155478591",
+      "whatsapp": "3155478591",
+      "web": "https://bit.ly/3UO4gn0",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/lacuarentena.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "LA SALCHIPAPERIA",
+      "zona": "LOS MANGLARES",
+      "llamadas": "3206767017",
+      "whatsapp": "3206767017",
+      "web": "https://bit.ly/3DOsTK8",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/lasalchipaperia.jpg"
+      },
+      "nat": "NO"
+    },
+   {
+      "nombre": "LA SEXTA",
+      "zona": "CENTRO B/TURA",
+      "llamadas": "3143147151",
+      "whatsapp": "3143147151",
+      "web": "https://bit.ly/3C83ppE",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/lasexta.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "MAXIPAPAS",
+      "zona": "",
+      "llamadas": "3153707630",
+      "whatsapp": "3153707630",
+      "web": "https://bit.ly/3hEE7Iz",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/maxipapas.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "PUNTO G",
+      "zona": "INDEPENDENCIA",
+      "llamadas": "3158028516",
+      "whatsapp": "3158028516",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/puntog.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "RAFFIS",
+      "zona": "NUEVA B/VENTURA",
+      "llamadas": "3157668272",
+      "whatsapp": "3157668272",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/raffis.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "RANCHO DE JANNA",
+      "zona": "LAS AMERICAS",
+      "llamadas": "3212289160",
+      "whatsapp": "3212289160",
+      "web": "https://bit.ly/3BJcap1",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/elrancho.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "RAPIDAS JEÑOS",
+      "zona": "GRAN COLOMBIANA",
+      "llamadas": "3172126588",
+      "whatsapp": "3172126588",
+      "web": "https://bit.ly/3SaNlJC",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/jeños.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "SALCHI ADICIONALES",
+      "zona": "",
+      "llamadas": "3167485948",
+      "whatsapp": "3167485948",
+      "web": "https://bit.ly/3C80D3K",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/salchiadicionales.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "SALCHIPICADAS",
+      "zona": "EL TRAPICHE",
+      "llamadas": "3217691104",
+      "whatsapp": "3217691104",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/trapichera.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "SERVI",
+      "zona": "",
+      "llamadas": "3186283768",
+      "whatsapp": "3186283768",
+      "web": "https://bit.ly/3hLTYVx",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/servichimichurry.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "SABOR DEL SANTY",
+      "zona": "",
+      "llamadas": "3155202068",
+      "whatsapp": "",
+      "web": "https://bit.ly/3LI6XT1",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/elsabordelsanty.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "SABOR DEL SANTY",
+      "zona": "INDEPENDENCIA",
+      "llamadas": "3156528631",
+      "whatsapp": "3156528631",
+      "web": "https://bit.ly/3C8HJKj",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/elsabordelsanty.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "SALCHIRICURAS",
+      "zona": "CENTRO B/TURA",
+      "llamadas": "3234869634",
+      "whatsapp": "3234869634",
+      "web": "https://bit.ly/3DTn2D9",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/salchiricuracentro.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "SALCHIRICURAS",
+      "zona": "VIVA B/TURA",
+      "llamadas": "3157470831",
+      "whatsapp": "3157470831",
+      "web": "https://bit.ly/3CbHUEM",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/salchiricuraviva.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TANAS FOOD",
+      "zona": "14 DE JULIO",
+      "llamadas": "3103630255",
+      "whatsapp": "3103630255",
+      "web": "https://bit.ly/3LM6hf9",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/tanasfood.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TAZMANIA",
+      "zona": "14 DE JULIO",
+      "llamadas": "3177032007",
+      "whatsapp": "3177032007",
+      "web": "",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/tazmania.jpg"
+      },
+      "nat": "NO"
+     },
+     {
+      "nombre": "ZAZU",
+      "zona": "PORVENIR",
+      "llamadas": "3107066337",
+      "whatsapp": "",
+      "web": "https://bit.ly/3G9eQj2",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/comidasrapidas/zazu.jpg"
+      },
+      "nat": "NO"
+     }
+  ]
+}

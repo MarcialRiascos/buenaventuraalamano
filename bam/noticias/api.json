@@ -1,0 +1,92 @@
+{
+  "results": [
+    {
+      "nombre": "FIN DE SEMANA",
+      "zona": "",
+      "llamadas": "",
+      "whatsapp": "",
+      "web": "https://bit.ly/3LSZpwu",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/fsnnoticias.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "JJ EN LA JUGADA",
+      "zona": "",
+      "llamadas": "3174257835",
+      "whatsapp": "3174257835",
+      "web": "https://bit.ly/3C6LYEI",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/jj.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "MAS NOTICIAS",
+      "zona": "",
+      "llamadas": "3041113666",
+      "whatsapp": "3041113666",
+      "web": "https://bit.ly/3EcUWmu",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/masnoticias.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "NOTICIERO B/TURA",
+      "zona": "",
+      "llamadas": "",
+      "whatsapp": "",
+      "web": "https://bit.ly/3y2iLcW",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/buenaventura.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "NOTICIAS 1/2 DIA",
+      "zona": "",
+      "llamadas": "",
+      "whatsapp": "",
+      "web": "https://bit.ly/3CkWgCJ",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/mediodia.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TELEMAR",
+      "zona": "",
+      "llamadas": "",
+      "whatsapp": "",
+      "web": "https://bit.ly/3SHQZu7",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/telemar.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TV NOTICIAS",
+      "zona": "",
+      "llamadas": "",
+      "whatsapp": "",
+      "web": "https://bit.ly/3SqgyAk",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/tvnoticias.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "nombre": "TV YO",
+      "zona": "",
+      "llamadas": "",
+      "whatsapp": "",
+      "web": "https://bit.ly/3ClcmvW",
+      "imagen": {
+        "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/noticieros/tvyo.jpg"
+      },
+      "nat": "NO"
+    }
+  ]
+}

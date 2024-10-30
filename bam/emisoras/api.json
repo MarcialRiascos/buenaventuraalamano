@@ -1,0 +1,26 @@
+{
+    "results": [
+      {
+        "nombre": "RADIO 1",
+        "zona": "",
+        "llamadas": "",
+        "whatsapp": "",
+        "web": "https://bit.ly/3fkBtpG",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/emisoras/radiouno.jpg"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "VOCES PACIFICO",
+        "zona": "",
+        "llamadas": "",
+        "whatsapp": "",
+        "web": "https://bit.ly/3fwkq4f",
+        "imagen": {
+          "large": "https://buenaventuraalamano.000webhostapp.com/bam/avatar/emisoras/voces.jpg"
+        },
+        "nat": "NO"
+      }
+    ]
+  }
